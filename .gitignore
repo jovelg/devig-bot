@@ -7,4 +7,3 @@ __pycache__/
 *.py[cod]
 .settings-*
 env/
-runtime.txt
